@@ -48,10 +48,5 @@ public class variables {
         
         // System.out.println(letter);
 
-
-
-
-
-
     }
 }
